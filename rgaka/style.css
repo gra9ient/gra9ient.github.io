@@ -1,0 +1,50 @@
+	div{width: 70%;
+		margin: auto;	
+			padding: 50px;
+			color: white;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+background-color: black;
+box-shadow: 0px 0px 50px 50px black;
+border-bottom: 1px
+}
+
+	h1{
+		color: white;
+	}
+
+	a{text-decoration: none;
+		font-size: 20px;
+		color: black;
+		}
+
+		img{
+			max-width: 100%;
+			height: auto;
+			display: block;
+		}
+
+		*{
+			padding: 0px ;
+			margin: 0;
+			box-sizing: border-box;
+		}
+		p{margin: 30px 0 ; }
+
+		body{
+			background-color: grey;
+		}
+
+a:hover{
+	border-bottom-color: red	
+}
+
+a {
+	text-decoration: none;
+	color:black;
+	border-bottom: 1px solid transparent;
+	display:inline-block;
+	margin:20px 0 ;
+transition: 0.5s ease-in;
+
+}
